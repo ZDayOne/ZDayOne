@@ -1,16 +1,31 @@
-## Hi there 👋
+📜 License
+Copyright © 2025 ZDayOne.
+All rights reserved.
 
-<!--
-**ZDayOne/ZDayOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This data is provided "as is" for educational, analytical, and research purposes. You are permitted to:
 
-Here are some ideas to get you started:
+Use, copy, and distribute the data freely
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Modify and remix the data for personal or commercial use
+
+Attribute the original author where applicable (ZDayOne or this repository)
+
+However, you may not:
+
+Represent the data as official IEEE or MAC address authority
+
+Use the data for any unlawful or malicious activity
+
+Hold the author liable for errors, inaccuracies, or damages arising from its use
+
+By using this dataset, you agree to comply with all applicable local, national, and international data handling and intellectual property laws, including but not limited to:
+
+The Digital Millennium Copyright Act (DMCA) (USA)
+
+The General Data Protection Regulation (GDPR) (EU)
+
+Any IEEE usage limitations on derived datasets
+
+This repository is not affiliated with or endorsed by IEEE. Data is generated from publicly available records and is redistributed with attribution under fair use principles.
+
+Use at your own risk. No warranties are expressed or implied.
